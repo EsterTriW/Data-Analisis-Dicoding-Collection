@@ -80,6 +80,7 @@ markdown-it-py==2.2.0
 MarkupSafe @ file:///D:/bld/markupsafe_1666770340967/work
 matplotlib @ file:///D:/bld/matplotlib-suite_1667505124848/work
 matplotlib-inline==0.1.6
+matplotlib==3.7.1
 mdurl==0.1.2
 mistune==2.0.4
 munch==2.5.0
