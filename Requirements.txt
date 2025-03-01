@@ -1,4 +1,7 @@
-matplotlib==3.7.1
-pandas
-seaborn
 streamlit
+pandas
+numpy
+matplotlib
+seaborn
+pydeck
+requests
