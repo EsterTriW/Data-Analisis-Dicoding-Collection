@@ -1,3 +1,12 @@
+import subprocess
+import sys
+
+try:
+    import matplotlib.pyplot as plt
+except ModuleNotFoundError:
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "matplotlib"])
+    import matplotlib.pyplot as plt
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
