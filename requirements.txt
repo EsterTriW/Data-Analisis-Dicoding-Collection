@@ -15,13 +15,12 @@ jupyter_server==2.0.0
 jupyter_server_terminals==0.4.2
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.4
-matplotlib @ file:///D:/bld/matplotlib-suite_1667505124848/work
 matplotlib-inline==0.1.6
 matplotlib==3.7.1
-numpy @ file:///D:/bld/numpy_1668919236258/work
-pandas @ file:///D:/bld/pandas_1669134777944/work
+numpy
+pandas
 pydeck==0.8.0
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1661872987712/work
+requests
 requests-oauthlib==1.3.1
 streamlit==1.19.0
 tensorboard==2.10.1
