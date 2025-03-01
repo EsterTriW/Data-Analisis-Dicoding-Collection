@@ -15,9 +15,7 @@ jupyter_server==2.0.0
 jupyter_server_terminals==0.4.2
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.4
-matplotlib-inline==0.1.6
-matplotlib==3.7.1
-matplotlib
+matplotlib==3.7.1  # Pakai versi spesifik
 numpy
 pandas
 pydeck==0.8.0
